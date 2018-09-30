@@ -8,20 +8,30 @@ http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
 #EXTINF:-1, Azteca A+ Plus
 http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1, Telemundo
-http://cdn.widestream.io:8080/hls/pawssfv.m3u8?s=IJ2W8xHUpxixzLZnH7ukkA&e=1538343696
+#EXTINF:-1, FRECUENCIA LATINA
+http://aleman.mine.nu:8000/live/oscar1/oscar1/4241.ts
+#EXTINF:-1, CARACOL
+http://aleman.mine.nu:8000/live/oscar1/oscar1/1642.ts
+#EXTINF:-1, CANAL DE LAS ESTRELLAS
+http://aleman.mine.nu:8000/live/oscar1/oscar1/1577.ts
+#EXTINF:-1, RCN
+http://aleman.mine.nu:8000/live/oscar1/oscar1/1534.ts
+#EXTINF:-1, DISCOVERY CHANNEL
+http://aleman.mine.nu:8000/live/oscar1/oscar1/824.ts
+#EXTINF:-1, DISNEY XD
+http://aleman.mine.nu:8000/live/oscar1/oscar1/818.ts
+#EXTINF:-1, DISCOVERY KIDS
+http://aleman.mine.nu:8000/live/oscar1/oscar1/822.ts
+#EXTINF:-1, 
 
+#EXTINF:-1, 
 
+#EXTINF:-1, 
 
+#EXTINF:-1, 
 
+#EXTINF:-1, 
 
+#EXTINF:-1, 
 
-
-
-
-
-
-
-
-
-
+#EXTINF:-1, 
