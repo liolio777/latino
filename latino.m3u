@@ -1,4 +1,27 @@
 # latino
 #EXTM3U
-#EXTINF:-1,AZTECA UNO
+#EXTINF:-1, AZTECA UNO
 http://aztecalive-lh.akamaihd.net:80/i/0qm7cjvop_1@502476/index_3_av-p.m3u8
+#EXTINF:-1, Azteca 13
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+#EXTINF:-1, Azteca A+
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
+#EXTINF:-1, Azteca A+ Plus
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, Telemundo
+http://cdn.widestream.io:8080/hls/pawssfv.m3u8?s=IJ2W8xHUpxixzLZnH7ukkA&e=1538343696
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
