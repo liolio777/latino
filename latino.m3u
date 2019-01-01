@@ -1,473 +1,290 @@
 # latino
 #EXTM3U
-#EXTINF:-1, AZTECA UNO
-http://aztecalive-lh.akamaihd.net:80/i/0qm7cjvop_1@502476/index_3_av-p.m3u8
-#EXTINF:-1, Azteca 13
-http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
-#EXTINF:-1, Azteca A+
-http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
-#EXTINF:-1, Azteca A+ Plus
-http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,Telemundo
-http://system.fpiptv.com:8080/live/Hflouren/GDsvf34t4/497.m3u8
- 
-#EXTINF:-1,EstrellaTv
-http://cincomas.x10.bz/1wrqw.php/estrellatv/stream5/streamPlaylist.m3u8
- 
-#EXTINF:-1,Univision
-http://system.fpiptv.com:8080/live/Hflouren/GDsvf34t4/494.m3u8
- 
-#EXTINF:-1,Unimas
-http://system.fpiptv.com:8080/live/Hflouren/GDsvf34t4/498.m3u8
- 
-#EXTINF:-1,TLNovelas
-http://system.fpiptv.com:8080/live/Hflouren/GDsvf34t4/502.m3u8
- 
-#EXTINF:-1,TDN
-http://system.fpiptv.com:8080/live/Hflouren/GDsvf34t4/527.m3u8
- 
-#EXTINF:-1,UTDN
-http://system.fpiptv.com:8080/live/Hflouren/GDsvf34t4/530.m3u8
- 
-#EXTINF:-1,RCN
-http://system.fpiptv.com:8080/live/Hflouren/GDsvf34t4/503.m3u8
- 
-#EXTINF:-1,TLMundo
-http://system.fpiptv.com:8080/live/Hflouren/GDsvf34t4/504.m3u8
- 
-#EXTINF:-1,Tv5 Monde
-http://system.fpiptv.com:8080/live/Hflouren/GDsvf34t4/507.m3u8
- 
-#EXTINF:0,Azteca Uno
-http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
- 
-#EXTINF:0,Azteca +
-http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
- 
-#EXTINF:0,Azteca A
-http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
- 
-#EXTINF:0,Azteca 13
-http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
- 
-#EXTINF:1,Cinema
-http://system.fpiptv.com:8080/live/Hflouren/GDsvf34t4/572.m3u8
- 
-#EXTINF:-1,MULTIMEDIOS
-http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
- 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/ajBGBm5.png" group-title="ENTRETENIMIENTO",Multimedios (Mexico)
-http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
- 
-#EXTINF:-1,Caracol
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/878.m3u8?Guap@sTv
- 
-#EXTINF:-1,RCN
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/880.m3u8?Guap@sTv
- 
-#EXTINF:-1,CANAL10
-http://klive-a.akamaihd.net/dc-0/live/hls/p/290412/e/0_es0kdjdz/sd/10000/t/bj1DqoE8O0tNhHgd6BvqXQ/index-s32.m3u8
- 
-#EXTINF:-1,WipR
-http://api.new.livestream.com/accounts/16550960/events/8077197/live.m3u8
- 
-#EXTINF:-1,ID fashion
-http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
- 
-#EXTINF:-1,EfectoTv
-http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_3_av-p.m3u8
- 
-#EXTINF:-1,Radio Formula
-http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
- 
-#EXTINF:-1,TeleMax
-http://s5.mexside.net:1935/telemax/telemax/.m3u8
- 
-#EXTINF:0,CANAL 22
-http://api.new.livestream.com/accounts/16458468/events/4574813/live.m3u8
- 
-#EXTINF:-1, RCG SD
-http://wowzacontrol.com:1936/stream34/stream34/playlist.m3u8
- 
-#EXTINF:-1,RCG 2 SD
-http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
- 
-#EXTINF:-1,Terrasa Spain
-http://173.212.214.184:1935/terrassaweb/terrassaweb/.m3u8
- 
-#EXTINF:-1,ADN 40
-http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/index_3_av-b.m3u8?sd=10&rebase=on
- 
-#EXTINF:-1,ADN 40
-http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
- 
-#EXTINF:-1,Milenio
-http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
- 
-#EXTINF:-1, Canal 11
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8
- 
-#EXTINF:-1,TV Mas Mx
-http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8
- 
-#EXTINF:-1,Lequipe
-http://ec.playmedia.fr/lequipe21/live/.m3u8
- 
-#EXTINF:-1,Arirang
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
- 
-#EXTINF:-1, Canal 8 
-http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
- 
-#EXTINF:-1,Canal 22 
-http://api.new.livestream.com/accounts/16458468/events/4574813/live.m3u8?Guap@sTv
- 
-#EXTINF:-1,Canal 10 
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
- 
-#EXTINF:-1,Canal 11 
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8?Guap@sTv
- 
-#EXTINF:-1, 21 CDMX
-http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc
- 
-#EXTINF:-1,La Rioja
-http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
- 
-#EXTINF:-1,DiscoveryWorld
-http://system.fpiptv.com:8080/live/Hflouren/GDsvf34t4/510.m3u8
- 
-#EXTINF:-1,France24
-http://system.fpiptv.com:8080/live/Hflouren/GDsvf34t4/689.m3u8
- 
-#EXTINF:-1,DISCOVETY CIV
-http://aleman.mine.nu:8000/live/oscar1/oscar1/3135.ts
- 
-#EXTINF:-1,H&Hyutotugaw@spindl-e.com
-http://aleman.mine.nu:8000/live/oscar1/oscar1/2353.ts
-
-#EXTINF:-1,Disney Jr
-http://system.fpiptv.com:8080/live/Hflouren/GDsvf34t4/533.m3u8
- 
-#EXTINF:-1,XD
-http://system.fpiptv.com:8080/live/Hflouren/GDsvf34t4/532.m3u8
- 
-#EXTINF:-1,DiscoveryJr
-http://system.fpiptv.com:8080/live/Hflouren/GDsvf34t4/533.m3u8
- 
-#EXTINF:-1,Nick Jr
-http://system.fpiptv.com:8080/live/Hflouren/GDsvf34t4/535.m3u8
- 
-#EXTINF:-1,Boomerang
-http://system.fpiptv.com:8080/live/Hflouren/GDsvf34t4/538.m3u8
- 
-#EXTINF:-1,Cartoon
-http://system.fpiptv.com:8080/live/Hflouren/GDsvf34t4/539.m3u8
- 
-#EXTINF:-1,HBO
-http://aleman.mine.nu:8000/live/oscar1/oscar1/1594.ts
- 
-#EXTINF:-1,HBO2
-http://system.fpiptv.com:8080/live/Hflouren/GDsvf34t4/600.m3u8
- 
-#EXTINF:-1,HBO PLUS
-http://system.fpiptv.com:8080/live/Hflouren/GDsvf34t4/601.m3u8
- 
-#EXTINF:-1,HBO FAMILY
-http://system.fpiptv.com:8080/live/Hflouren/GDsvf34t4/603.m3u8
- 
-#EXTINF:-1,FOX CLASSIC
-http://aleman.mine.nu:8000/live/oscar1/oscar1/608.ts
- 
-#EXTINF:-1,FOX COMEDY
-http://aleman.mine.nu:8000/live/oscar1/oscar1/607.ts
- 
-#EXTINF:-1,GOLDEN PRE
-http://system.fpiptv.com:8080/live/Hflouren/GDsvf34t4/577.m3u8
- 
-#EXTINF:-1,FOX
-http://streams.tvxweb.net:5196/live/apk_developer/MB57pBePGL/1800.m3u8
- 
-#EXTINF:-1,AMC
-http://system.fpiptv.com:8080/live/Hflouren/GDsvf34t4/585.m3u8
- 
-#EXTINF:-1,TCM
-http://system.fpiptv.com:8080/live/Hflouren/GDsvf34t4/587.m3u8
- 
-#EXTINF:-1,FX
-http://system.fpiptv.com:8080/live/Hflouren/GDsvf34t4/590.m3u8
- 
-#EXTINF:-1,WB
-http://system.fpiptv.com:8080/live/Hflouren/GDsvf34t4/546.m3u8
- 
-#EXTINF:-1,FX
-http://system.fpiptv.com:8080/live/Hflouren/GDsvf34t4/548.m3u8
- 
-#EXTINF:-1,TNT SERIES
-http://system.fpiptv.com:8080/live/Hflouren/GDsvf34t4/558.m3u8
- 
-#EXTINF:-1,FOX LIFE
-http://system.fpiptv.com:8080/live/Hflouren/GDsvf34t4/559.m3u8
- 
-#EXTINF:-1,HBO
-http://aleman.mine.nu:8000/live/oscar1/oscar1/1594.ts
- 
-#EXTINF:-1,HBO2
-http://aleman.mine.nu:8000/live/oscar1/oscar1/2804.ts
- 
-#EXTINF:-1,HBO PLUS
-http://aleman.mine.nu:8000/live/oscar1/oscar1/593.ts
- 
-#EXTINF:-1,HBO FAMILY
-http://aleman.mine.nu:8000/live/oscar1/oscar1/598.ts
- 
-#EXTINF:-1,HBO SIGNATUR
-http://aleman.mine.nu:8000/live/oscar1/oscar1/592.ts
- 
-#EXTINF:-1,F0X
-http://aleman.mine.nu:8000/live/oscar1/oscar1/262.ts
- 
-#EXTINF:-1,CINEMAX
-http://aleman.mine.nu:8000/live/oscar1/oscar1/1384.ts
- 
-#EXTINF:-1,TNT
-http://aleman.mine.nu:8000/live/oscar1/oscar1/2809.ts
- 
-#EXTINF:-1,STUDIO
-http://aleman.mine.nu:8000/live/oscar1/oscar1/267.ts
- 
-#EXTINF:-1,GOLDEN
-http://aleman.mine.nu:8000/live/oscar1/oscar1/1720.ts
- 
-#EXTINF:-1,TCM
-http://aleman.mine.nu:8000/live/oscar1/oscar1/1719.ts
- 
-
-#EXTINF:-1,BE MAD
-https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
- 
-#EXTINF:-1,Divinity
-https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
- 
-#EXTINF:-1,Tele Madrid
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
- 
-#EXTINF:-1,LaOtra
-http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_1.m3u8
- 
-#EXTINF1,Nova
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/897.m3u8?Guap@sTv.m3u8
- 
-#EXTINF1,Mega
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/893.m3u8?Guap@sTv
- 
-#EXTINF:-1,LANCELOT
-http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
- 
-#EXTINF:-1,ODISEA
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/953.m3u8?Guap@sTv.m3u8
- 
-#EXTINF:-1,LA XARXA
-http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
- 
-#EXTINF:0,TV3☆Guap
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
- 
- 
-#EXTINF:-1,DIVINITY 
-http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8?Guap@sTv.m3u8
- 
-#EXTINF:-1,CRIMEN IC 
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/948.m3u8?Guap@sTv.m3u8
- 
-#EXTINF:-1,LA 1 
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/887.m3u8?Guap@sTv.m3u8
- 
-#EXTINF:-1,FDF
-https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_3.m3u8?Guap@sTv.m3u8
- 
-#EXTINF:-1,TELE 5
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/891.m3u8?Guap@sTv.m3u8
- 
-#EXTINF:-1,LA SEXTA 6
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/892.m3u8?Guap@sTv.m3u8
- 
-#EXTINF:-1,ANTENA 3
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/893.m3u8?Guap@sTv.m3u8
- 
-#EXTINF:-1,NEOX 3
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/894.m3u8?Guap@sTv.m3u8
- 
-#EXTINF:-1,FDF
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/895.m3u8?Guap@sTv.m3u8
- 
-#EXTINF:-1,CALLE 13
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/964.m3u8?Guap@sTv.m3u8
- 
-#EXTINF:-1,DIVINITY
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/896.m3u8?Guap@sTv.m3u8
- 
-#EXTINF:-1,NOVA
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/897.m3u8?Guap@sTv.m3u8
- 
-#EXTINF1,TNT
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/977.m3u8?Guap@sTv.m3u8
- 
-#EXTINF:-1,COMEDY C
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/921.m3u8?Guap@sTv.m3u8
- 
-#EXTINF:-1,AXN WHITE
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/916.m3u8?Guap@sTv.m3u8
- 
-#EXTINF:-1,AMC
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/913.m3u8?Guap@sTv.m3u8
- 
-#EXTINF:-1,E!
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/898.m3u8?Guap@sTv.m3u8
- 
-#EXTINF:-1,TCM
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/914.m3u8?Guap@sTv.m3u8
- 
-#EXTINF:-1,AXN
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/915.m3u8?Guap@sTv.m3u8
- 
-#EXTINF:-1,FOX HD
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/917.m3u8?Guap@sTv.m3u8
- 
-#EXTINF:-1,FOX LIFE
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/918.m3u8?Guap@sTv.m3u8
- 
-#EXTINF:-1,SYFY
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/919.m3u8?Guap@sTv.m3u8
- 
-#EXTINF:-1,CRIMEN IC
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/948.m3u8?Guap@sTv.m3u8
- 
-#EXTINF:-1,A&E
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/949.m3u8?Guap@sTv.m3u8
- 
-#EXTINF:-1,DISCOVERYCH
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/950.m3u8?Guap@sTv.m3u8
- 
-#EXTINF:-1,HISTORY
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/952.m3u8?Guap@sTv.m3u8
- 
-#EXTINF:-1,NAT GEO
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/955.m3u8?Guap@sTv.m3u8
- 
-#EXTINF:-1,NATGEO WILL
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/956.m3u8?Guap@sTv.m3u8
- 
-#EXTINF:-1,LA LIGA 
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/931.m3u8?Guap@sTv.m3u8
- 
-#EXTINF:-1,#V 
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/942.m3u8?Guap@sTv.m3u8
- 
-#EXTINF:-1,MOTO GP
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/945.m3u8?Guap@sTv.m3u8
- 
-#EXTINF:-1,V Sport
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/942.m3u8?Guap@sTv.m3u8
- 
-#EXTINF:-1,Movi Liga
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/931.m3u8?Guap@sTv.m3u8
- 
-#EXTINF:-1,Bein Sport
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/926.m3u8?Guap@sTv.m3u8
- 
-#EXTINF1,M DEPORTES
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/941.m3u8?Guap@sTv.m3u8
- 
-#EXTINF:-1,M DEPORTES2
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/911.m3u8?Guap@sTv.m3u8
- 
-#EXTINF1,M FUTBOL
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/924.m3u8?Guap@sTv.m3u8
- 
-#EXTINF1,LA LIGA
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/905.m3u8?Guap@sTv.m3u8
- 
-#EXTINF:-1,#0
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/911.m3u8?Guap@sTv.m3u8
- 
-#EXTINF:-1,TOROS
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/946.m3u8?Guap@sTv.m3u8
- 
-#EXTINF:-1,Being Sp
-http://disfruta.club:8000/live/8bL4CJDX4J/hBqb8GpAwI/144.m3u8
- 
-#EXTINF:-1,Real Madrid
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
- 
-#EXTINF:-1,BARSA
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/954.m3u8?Guap@sTv.m3u8
- 
-#EXTINF:-1,NICKELODEON
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/957.m3u8?Guap@sTv.m3u8
- 
-#EXTINF:-1,BABY TV
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/962.m3u8?Guap@sTv.m3u8
- 
-#EXTINF:-1,DisneyChanel
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/959.m3u8?Guap@sTv.m3u8
- 
-#EXTINF:-1,Panda
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/958.m3u8?Guap@sTv.m3u8
- 
-#EXTINF:-1,HOLLYWOOD
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/912.m3u8?Guap@sTv.m3u8
- 
-#EXTINF:-1,M ACCION
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/903.m3u8?Guap@sTv.m3u8
- 
-#EXTINF:-1,M DRAMA
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/905.m3u8?Guap@sTv.m3u8
- 
-#EXTINF:-1,M ESTRENOS
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/906.m3u8?Guap@sTv.m3u8
- 
-#EXTINF:-1,M SERIES
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/907.m3u8?Guap@sTv.m3u8
- 
-#EXTINF:-1,M CINE
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/910.m3u8?Guap@sTv.m3u8
- 
-#EXTINF1,McineDoc&Roll
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/909.m3u8?Guap@sTv.m3u8
- 
-#EXTINF1,Mcomedia
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/904.m3u8?Guap@sTv.m3u8
- 
-#EXTINF1,Mestrenos
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/906.m3u8?Guap@sTv.m3u8
- 
-#EXTINF:-1,FDF
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/895.m3u8?Guap@sTv.m3u8
- 
-#EXTINF:-1,La 2
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/888.m3u8?Guap@sTv.m3u8
- 
-#EXTINF:-1,BEMAD
-https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
- 
-#EXTINF1,Odisea
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/953.m3u8?Guap@sTv.m3u8
- 
-#EXTINF1,Cocina
-http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/947.m3u8?Guap@sTv.m3u8
- 
-#EXTINF:-1,Lacelot
-http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
- 
-#EXTINF:-1,La Cuatro
-https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/616/index.m3u8
- 
-#EXTINF:-1,La Sexta
-https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/618/index.m3u8
- 
-#EXTINF:-1,LaSexta
-https://livepull1.secure.footprint.net/lasextampp/bitrate_1.m3u8
- 
-#EXTINF:-1,Factoria
-https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+#EXTINF:-1,ES: A&E
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13457
+#EXTINF:-1,ES: A3 SERIE FHD
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13367
+#EXTINF:-1,ES: AMC
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13456
+#EXTINF:-1,ES: AMC HD
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13335
+#EXTINF:-1,ES: Antena 3
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13452
+#EXTINF:-1,ES: Antena 3 FHD
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13451
+#EXTINF:-1,ES: Aragon TV
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13450
+#EXTINF:-1,ES: AXN
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13455
+#EXTINF:-1,ES: AXN FHD
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13334
+#EXTINF:-1,ES: AXN White
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13454
+#EXTINF:-1,ES: AXN White FHD
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13453
+#EXTINF:-1,ES: Baby TV
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13449
+#EXTINF:-1,ES: Barca TV
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13448
+#EXTINF:-1,ES: bein Sports
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13351
+#EXTINF:-1,ES: beIN Sports FHD
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13353
+#EXTINF:-1,ES: beINSPORTS Laliga
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13354
+#EXTINF:-1,ES: beINSports LaLiga FHD
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13352
+#EXTINF:-1,ES: Boing
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13447
+#EXTINF:-1,ES: Calle 13
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13333
+#EXTINF:-1,ES: Calle 13 FHD
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13435
+#EXTINF:-1,ES: Calle 13 HD
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13434
+#EXTINF:-1,ES: Canal 24 Horas
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13332
+#EXTINF:-1,ES: Canal 3/24
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13331
+#EXTINF:-1,ES: Canal Cocina
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13433
+#EXTINF:-1,ES: Canal Decasa
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13432
+#EXTINF:-1,ES: Canal Orbe 21
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13330
+#EXTINF:-1,ES: Canal Panda
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13431
+#EXTINF:-1,ES: Canal SUR Andalucia
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13430
+#EXTINF:-1,ES: Caza Y Pesca
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13429
+#EXTINF:-1,ES: Caza Y Pesca FHD
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13428
+#EXTINF:-1,ES: Clan TVE
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13427
+#EXTINF:-1,ES: Classica
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13426
+#EXTINF:-1,ES: Comedy Central
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13424
+#EXTINF:-1,ES: Comedy Central FHD
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13329
+#EXTINF:-1,ES: Comedy Central HD
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13425
+#EXTINF:-1,ES: Cosmopolitan FHD
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13423
+#EXTINF:-1,ES: Cosmopolitan HD
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13422
+#EXTINF:-1,ES: Crime   investi gation
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13421
+#EXTINF:-1,ES: Cuatro
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13420
+#EXTINF:-1,ES: Cuatro FHD
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13419
+#EXTINF:-1,ES: Discovery Channel
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13417
+#EXTINF:-1,ES: Disney Channel
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13328
+#EXTINF:-1,ES: Disney Channel FHD
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13415
+#EXTINF:-1,ES: Disney Junior
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13414
+#EXTINF:-1,ES: Disney XD
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13413
+#EXTINF:-1,ES: DKiss
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13418
+#EXTINF:-1,ES: Energy
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13412
+#EXTINF:-1,ES: Esperanza TV
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13327
+#EXTINF:-1,ES: EuroSport 1
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13363
+#EXTINF:-1,ES: EuroSport 1 FHD
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13326
+#EXTINF:-1,ES: Eurosport 2
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13362
+#EXTINF:-1,ES: FDF
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13411
+#EXTINF:-1,ES: Fox
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13409
+#EXTINF:-1,ES: Fox FHD
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13325
+#EXTINF:-1,ES: Fox HD
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13408
+#EXTINF:-1,ES: FOX Life
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13410
+#EXTINF:-1,ES: Fox Life HD
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13407
+#EXTINF:-1,ES: Fox News
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13366
+#EXTINF:-1,ES: Galicia TV
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13406
+#EXTINF:-1,ES: Gol TV
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13361
+#EXTINF:-1,ES: Historia
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13416
+#EXTINF:-1,ES: Hollywood
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13405
+#EXTINF:-1,ES: Hollywood FHD
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13404
+#EXTINF:-1,ES: HOLLYWOOD HD
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13324
+#EXTINF:-1,ES: Iberalia TV
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13403
+#EXTINF:-1,ES: La Sexta
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13399
+#EXTINF:-1,ES: LA Sexta FHD
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13401
+#EXTINF:-1,ES: La Sexta HD
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13398
+#EXTINF:-1,ES: LaLiga 123 FHD
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13360
+#EXTINF:-1,ES: LaLiga TV Bar
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13359
+#EXTINF:-1,ES: LaLigaTV HD
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13358
+#EXTINF:-1,ES: lasestrellas
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13323
+#EXTINF:-1,ES: Levante TV
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13397
+#EXTINF:-1,ES: Mega
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13395
+#EXTINF:-1,ES: Mezzo Live FHD
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13394
+#EXTINF:-1,ES: MoviStar  Acción
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13446
+#EXTINF:-1,ES: MoviStar  Acción FHD
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13315
+#EXTINF:-1,ES: Movistar  Deportes 1
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13436
+#EXTINF:-1,ES: MoviStar  Series
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13443
+#EXTINF:-1,ES: MoviStar Cine Ñ
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13445
+#EXTINF:-1,ES: MoviStar Comedia
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13439
+#EXTINF:-1,ES: Movistar DCine FHD
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13322
+#EXTINF:-1,ES: Movistar Deportes 2
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13321
+#EXTINF:-1,ES: MoviStar Estrenos FHD
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13320
+#EXTINF:-1,ES: MoviStar Estrenos HD
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13444
+#EXTINF:-1,ES: MoviStar Formula 1
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13437
+#EXTINF:-1,ES: MoviStar Formula 1 FHD
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13319
+#EXTINF:-1,ES: MoviStar Formula 1 HD
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13438
+#EXTINF:-1,ES: MoviStar Futbol
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13357
+#EXTINF:-1,ES: MoviStar Futbol FHD
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13318
+#EXTINF:-1,ES: MoviStar Golf
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13365
+#EXTINF:-1,ES: MoviStar Golf FHD
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13317
+#EXTINF:-1,ES: MoviStar MotoGP
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13364
+#EXTINF:-1,ES: MoviStar MotoGP FHD
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13316
+#EXTINF:-1,ES: MoviStar Series FHD
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13442
+#EXTINF:-1,ES: MoviStar Series Xtra
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13441
+#EXTINF:-1,ES: MoviStar Xtra
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13440
+#EXTINF:-1,ES: MTV
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13396
+#EXTINF:-1,ES: Nat Geo Wild
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13391
+#EXTINF:-1,ES: Nat Geo Wild FHD
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13390
+#EXTINF:-1,ES: National Geographic
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13393
+#EXTINF:-1,ES: National Geographic FHD
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13392
+#EXTINF:-1,ES: Neox
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13389
+#EXTINF:-1,ES: Nick Jr.
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13388
+#EXTINF:-1,ES: Nickelodeon
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13386
+#EXTINF:-1,ES: Nickelodeon FHD
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13387
+#EXTINF:-1,ES: Nova
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13385
+#EXTINF:-1,ES: Odisea
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13384
+#EXTINF:-1,ES: Olympic Channel HD
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13356
+#EXTINF:-1,ES: Paramount Channel
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13314
+#EXTINF:-1,ES: Real Madrid TV
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13355
+#EXTINF:-1,ES: Sundance TV
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13383
+#EXTINF:-1,ES: SyFy
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13381
+#EXTINF:-1,ES: SyFy FHD
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13382
+#EXTINF:-1,ES: Taquilla 1
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13347
+#EXTINF:-1,ES: Taquilla 10
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13338
+#EXTINF:-1,ES: Taquilla 11
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13313
+#EXTINF:-1,ES: Taquilla 12
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13312
+#EXTINF:-1,ES: Taquilla 2
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13346
+#EXTINF:-1,ES: Taquilla 3
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13345
+#EXTINF:-1,ES: Taquilla 4
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13344
+#EXTINF:-1,ES: Taquilla 5
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13343
+#EXTINF:-1,ES: Taquilla 6
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13342
+#EXTINF:-1,ES: Taquilla 7
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13341
+#EXTINF:-1,ES: Taquilla 8
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13340
+#EXTINF:-1,ES: Taquilla 9
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13339
+#EXTINF:-1,ES: TCM
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13380
+#EXTINF:-1,ES: TCM FHD
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13379
+#EXTINF:-1,ES: Telecinco
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13350
+#EXTINF:-1,ES: Telecinco FHD
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13349
+#EXTINF:-1,ES: Telecinco HD
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13348
+#EXTINF:-1,ES: TNT
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13378
+#EXTINF:-1,ES: TNT FHD
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13377
+#EXTINF:-1,ES: Toros TV
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13372
+#EXTINF:-1,ES: Toros TV FHD
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13311
+#EXTINF:-1,ES: TV3 Cat
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13375
+#EXTINF:-1,ES: TV3 FHD
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13376
+#EXTINF:-1,ES: TVE Internacional
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13374
+#EXTINF:-1,ES: TVE La 1
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13400
+#EXTINF:-1,ES: TVE La 1 FHD
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13402
+#EXTINF:-1,ES: TVE LA 2
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13373
+#EXTINF:-1,ES: VH1
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13371
+#EXTINF:-1,ES: Viajar
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13370
+#EXTINF:-1,ES: Viajar HD
+http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13369
