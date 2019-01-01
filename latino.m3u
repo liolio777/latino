@@ -290,7 +290,91 @@ http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13370
 http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13369
 #EXTINF:-1, AZTECA CORAZON
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL45/PROFILE03.m3u8
+#EXTINF:-1,UFC
+http://aleman.mine.nu:8000/ji63ZDq7IC/bKkMD2tBv6/1382
+#EXTINF:-1,CINEMAX
+http://aleman.mine.nu:8000/ji63ZDq7IC/bKkMD2tBv6/1384
+#EXTINF:-1,GOOL PERU
+http://aleman.mine.nu:8000/ji63ZDq7IC/bKkMD2tBv6/1469
+#EXTINF:-1,TVN HD
+http://aleman.mine.nu:8000/ji63ZDq7IC/bKkMD2tBv6/15
  
+#EXTINF:-1,RCN
+http://aleman.mine.nu:8000/ji63ZDq7IC/bKkMD2tBv6/1534
+#EXTINF:-1,HBO
+http://aleman.mine.nu:8000/ji63ZDq7IC/bKkMD2tBv6/1594
+#EXTINF:-1,TNT
+http://aleman.mine.nu:8000/ji63ZDq7IC/bKkMD2tBv6/1705
+#EXTINF:-1,TELENOVELAS
+http://aleman.mine.nu:8000/ji63ZDq7IC/bKkMD2tBv6/1713
+#EXTINF:-1,TCM
+http://aleman.mine.nu:8000/ji63ZDq7IC/bKkMD2tBv6/1719
+ 
+#EXTINF:-1,GOLDEN
+http://aleman.mine.nu:8000/ji63ZDq7IC/bKkMD2tBv6/1720
+ 
+#EXTINF:-1,GOLDEN EDGE
+http://aleman.mine.nu:8000/ji63ZDq7IC/bKkMD2tBv6/2
+#EXTINF:-1,FOX CHANNEL
+http://aleman.mine.nu:8000/ji63ZDq7IC/bKkMD2tBv6/262
+#EXTINF:-1,SPACE
+http://aleman.mine.nu:8000/ji63ZDq7IC/bKkMD2tBv6/265
+#EXTINF:-1,STUDIO UNIVERSAL
+http://aleman.mine.nu:8000/ji63ZDq7IC/bKkMD2tBv6/267
+ 
+#EXTINF:-1,FX
+http://aleman.mine.nu:8000/ji63ZDq7IC/bKkMD2tBv6/268
+#EXTINF:-1,HBO2
+http://aleman.mine.nu:8000/ji63ZDq7IC/bKkMD2tBv6/2804
+#EXTINF:-1,TNT.
+http://aleman.mine.nu:8000/ji63ZDq7IC/bKkMD2tBv6/2809
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://aleman.mine.nu:8000/ji63ZDq7IC/bKkMD2tBv6/2830
+#EXTINF:-1,DIRECTV SPORTS
+http://aleman.mine.nu:8000/ji63ZDq7IC/bKkMD2tBv6/305
+#EXTINF:-1,MEGA HD 2
+http://aleman.mine.nu:8000/ji63ZDq7IC/bKkMD2tBv6/3274
+#EXTINF:-1,AXN
+http://aleman.mine.nu:8000/ji63ZDq7IC/bKkMD2tBv6/399
+#EXTINF:-1,CANAL 13 HD.
+http://aleman.mine.nu:8000/ji63ZDq7IC/bKkMD2tBv6/4147
+#EXTINF:-1,CHV HD.
+http://aleman.mine.nu:8000/ji63ZDq7IC/bKkMD2tBv6/4148
+#EXTINF:-1,HBO SIGNATURE
+http://aleman.mine.nu:8000/ji63ZDq7IC/bKkMD2tBv6/592
+ 
+#EXTINF:-1,HBO PLUS ESTE
+http://aleman.mine.nu:8000/ji63ZDq7IC/bKkMD2tBv6/593
+#EXTINF:-1,HBO FAMILY
+http://aleman.mine.nu:8000/ji63ZDq7IC/bKkMD2tBv6/598
+ 
+#EXTINF:-1,HBO 2
+http://aleman.mine.nu:8000/ji63ZDq7IC/bKkMD2tBv6/599
+#EXTINF:-1,FOX MOVIES
+http://aleman.mine.nu:8000/ji63ZDq7IC/bKkMD2tBv6/604
+ 
+#EXTINF:-1,FOX LIFE
+http://aleman.mine.nu:8000/ji63ZDq7IC/bKkMD2tBv6/605
+ 
+#EXTINF:-1,FOX FAMILY
+http://aleman.mine.nu:8000/ji63ZDq7IC/bKkMD2tBv6/606
+ 
+#EXTINF:-1,FOX COMEDY
+http://aleman.mine.nu:8000/ji63ZDq7IC/bKkMD2tBv6/607
+ 
+#EXTINF:-1,FOX CLASSICS
+http://aleman.mine.nu:8000/ji63ZDq7IC/bKkMD2tBv6/608
+ 
+#EXTINF:-1,FOX CINEMA
+http://aleman.mine.nu:8000/ji63ZDq7IC/bKkMD2tBv6/609
+ 
+#EXTINF:-1,FOX ACTION
+http://aleman.mine.nu:8000/ji63ZDq7IC/bKkMD2tBv6/610
+ 
+#EXTINF:-1,CANAL FOX
+http://aleman.mine.nu:8000/ji63ZDq7IC/bKkMD2tBv6/612
+#EXTINF:-1,FOX SPORTS CHILE
+http://aleman.mine.nu:8000/ji63ZDq7IC/bKkMD2tBv6/693 
  
 #EXTINF:-1, AZTECA 1
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL23/PROFILE03.m3u8
