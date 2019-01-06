@@ -1,5 +1,7 @@
 # latino
 #EXTM3U
+#EXTINF:-1,ES: WAPA
+https://wowzaprod100-i.akamaihd.net/hls/live/254623/91a7a0a2_1_2728/chunklist.m3u8
 #EXTINF:-1,ES: A&E
 http://live-tv.zapto.org:999/Schoknecht/aIQAETOhld17/13457
 #EXTINF:-1,ES: A3 SERIE FHD
