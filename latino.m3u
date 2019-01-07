@@ -59,17 +59,34 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL481/PROFILE03.m3u8
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL430/PROFILE03.m3u8
 #EXTINF:-1  group-title="MEXICO",Nick toons
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL314/PROFILE05.m3u8
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1  group-title="MEXICO",Nick Jr
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL310/PROFILE05.m3u8
+#EXTINF:-1  group-title="MEXICO",Disney Junior 
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL308/PROFILE05.m3u8
+#EXTINF:-1  group-title="MEXICO",Heroes TV
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL320/PROFILE05.m3u8
+#EXTINF:-1  group-title="MEXICO",Disney XD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL322/PROFILE05.m3u8
+#EXTINF:-1  group-title="MEXICO",Boomerang 
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL324/PROFILE05.m3u8
+#EXTINF:-1  group-title="MEXICO",Movie TIIN Time
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL325/PROFILE05.m3u8
+#EXTINF:-1  group-title="MEXICO",Tooncast
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL328/PROFILE05.m3u8
+#EXTINF:-1  group-title="MEXICO",FXX
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL332/PROFILE05.m3u8
+#EXTINF:-1  group-title="MEXICO",De Pelicula
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL335/PROFILE05.m3u8
+#EXTINF:-1  group-title="MEXICO",Comedia central
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL341/PROFILE05.m3u8
+#EXTINF:-1  group-title="MEXICO",Theater Discovery 
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE05.m3u8
+#EXTINF:-1  group-title="MEXICO",Historia
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE05.m3u8
+#EXTINF:-1  group-title="MEXICO",Discovery 
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE05.m3u8
+#EXTINF:-1  group-title="MEXICO",Animal Planet 
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL373/PROFILE05.m3u8
 
 
 
