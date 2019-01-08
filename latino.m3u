@@ -87,6 +87,20 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE05.m3u8
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE05.m3u8
 #EXTINF:-1  group-title="MEXICO",Animal Planet 
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL373/PROFILE05.m3u8
+#EXTINF:-1  group-title="MEXICO",H&H Discovery 
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL374/PROFILE05.m3u8
+#EXTINF:-1  group-title="MEXICO",National Geographic 
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL377/PROFILE05.m3u8
+#EXTINF:-1  group-title="MEXICO",Lifetime 
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL379/PROFILE05.m3u8
+#EXTINF:-1  group-title="MEXICO",Discovery Science 
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL381/PROFILE05.m3u8
+#EXTINF:-1  group-title="MEXICO",Discovery Civilization 
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL382/PROFILE05.m3u8
+#EXTINF:-1  group-title="MEXICO",TLC Discovery 
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL386/PROFILE05.m3u8
+#EXTINF:-1  group-title="MEXICO",
+
 
 
 
