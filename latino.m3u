@@ -99,7 +99,36 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL381/PROFILE05.m3u8
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL382/PROFILE05.m3u8
 #EXTINF:-1  group-title="MEXICO",TLC Discovery 
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL386/PROFILE05.m3u8
+#EXTINF:-1  group-title="MEXICO",Las Estrllas
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL52/PROFILE03.m3u8
+#EXTINF:-1  group-title="MEXICO",Canal 5
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL55/PROFILE03.m3u8
+#EXTINF:-1  group-title="MEXICO",Sundance TV
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL69/PROFILE03.m3u8
+#EXTINF:-1  group-title="MEXICO",Foro tv
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL104/PROFILE03.m3u8
+#EXTINF:-1  group-title="MEXICO",Azteca 7
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE03.m3u8
+#EXTINF:-1  group-title="MEXICO",Canal 9
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE03.m3u8
+#EXTINF:-1  group-title="MEXICO",Azreca uno
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE03.m3u8
+#EXTINF:-1  group-title="MEXICO",Baby tv
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL116/PROFILE03.m3u8
+#EXTINF:-1  group-title="MEXICO",Golden tv
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL123/PROFILE03.m3u8
+#EXTINF:-1  group-title="MEXICO",G Plus
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL436/PROFILE03.m3u8
+#EXTINF:-1  group-title="MEXICO",Amc
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL444/PROFILE03.m3u8
 #EXTINF:-1  group-title="MEXICO",
+
+
+
+
+
+
+
 
 
 
