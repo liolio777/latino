@@ -4,7 +4,178 @@
 http://xpro.one-iptv.com:25443/mgs/1234/39151133
 #EXTINF:-1 tvg-id="" tvg-name="|LATINO| WIN SPORT HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu20Ou_HmodEtN4PondQUqSFxBgbU9jy-pu19cBT6K2CKkDTR7COIw-lMK" group-title="LATINO",|LATINO| WIN SPORT HD
 
-
+#EXTINF:-1,TVE
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/55801
+#EXTINF:-1,#0 4K+
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/813
+#EXTINF:-1,AMC 4K+
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/775
+#EXTINF:-1,AXN 4K+
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/772
+#EXTINF:-1,Calle 13 4K+
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/757
+#EXTINF:-1,Canal Odisea 4K+
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/736
+#EXTINF:-1,Comedy Central 4K+
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/788
+#EXTINF:-1,Cosmo 4K+
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/729
+#EXTINF:-1,Discovery Channel
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/740
+#EXTINF:-1,Fox Channel 4K+
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/781
+#EXTINF:-1,Fox Life 4K+
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/778
+#EXTINF:-1,Historia 4K+
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/738
+#EXTINF:-1,Hollywood 4K+
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/785
+#EXTINF:-1,M. Accion 4K+
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/807
+#EXTINF:-1,M. Cine Espanol
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/795
+#EXTINF:-1,M. Comedia HD+
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/804
+#EXTINF:-1,M. Dcine 4K+
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/801
+#EXTINF:-1,M. Estrenos 4K+
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/810
+#EXTINF:-1,M. Series 4K+
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/794
+#EXTINF:-1,M. Xtra HD+
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/798
+#EXTINF:-1,Nat Geo Wild 4K+
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/743
+#EXTINF:-1,National Geographic 4K+
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/746
+#EXTINF:-1,SYFY 4K+
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/766
+#EXTINF:-1,TCM 4K
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/760
+#EXTINF:-1,TNT 4K+
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/763
+#EXTINF:-1,AXN White 4K+
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/768
+#EXTINF:-1,24 Horas
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/721
+#EXTINF:-1,Andalucaa TV
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/816
+#EXTINF:-1,Antena 3 4K+
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/835
+#EXTINF:-1,Aragon TV
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/815
+#EXTINF:-1,Baby TV
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/711
+#EXTINF:-1,FDF
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/820
+#EXTINF:-1,Iberalia TV
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/747
+#EXTINF:-1,LA 2 HD+
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/837
+#EXTINF:-1,LA1 HD+
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/839
+#EXTINF:-1,Boing
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/712
+#EXTINF:-1,Canal Panda
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/710
+#EXTINF:-1,Caza Y Pesca 4K+
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/749
+#EXTINF:-1,Clan TVE HD+
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/713
+#EXTINF:-1,Crime & Investigation
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/739
+#EXTINF:-1,Cuatro 4K+
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/832
+#EXTINF:-1,Disney Channel
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/719
+#EXTINF:-1,Disney Junior
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/718
+#EXTINF:-1,Disney XD
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/720
+#EXTINF:-1,Divinity HD
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/819
+#EXTINF:-1,Energy HD
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/817
+#EXTINF:-1,Mega
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/821
+#EXTINF:-1,Mezzo 4K+
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/732
+#EXTINF:-1,MTV
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/733
+#EXTINF:-1,Neox
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/823
+#EXTINF:-1,Nickelodeon 4K+
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/716
+#EXTINF:-1,Nova
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/822
+#EXTINF:-1,Paramount
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/782
+#EXTINF:-1,Real Madrid TV
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/649
+#EXTINF:-1,TeleCinco 4K+
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/829
+#EXTINF:-1,TLC
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/734
+#EXTINF:-1,Toros 4K+
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/752
+#EXTINF:-1,Viajar 4K+
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/735
+#EXTINF:-1,Barca TV
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/648
+#EXTINF:-1,Bein La Liga HD+
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/704
+#EXTINF:-1,Bein La Liga 4K
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/706
+#EXTINF:-1,Bein Sports 4K+
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/709
+#EXTINF:-1,Eurosport 1 4K+
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/654
+#EXTINF:-1,Eurosport 2
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/651
+#EXTINF:-1,GOL TV
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/700
+#EXTINF:-1,La Liga TV BAR 4K+
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/703
+#EXTINF:-1,LA Liga TV BAR HD
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/702
+#EXTINF:-1,M. Deportes 1 4K+
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/696
+#EXTINF:-1,M. Deportes 2 4K+
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/693
+#EXTINF:-1,M. Esport
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/731
+#EXTINF:-1,M. Formula 1 4K+
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/690
+#EXTINF:-1,M. Futbol 4K
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/699
+#EXTINF:-1,M. Futbol HD+
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/698
+#EXTINF:-1,M. Golf 4K+
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/684
+#EXTINF:-1,M. Moto GP 4K+
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/687
+#EXTINF:-1,Bein La Liga HD
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/21050
+#EXTINF:-1,Bein La Liga TV 1 (Match Time)
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/21049
+#EXTINF:-1,Bein La Liga TV 2 (Match Time)
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/21048
+#EXTINF:-1,Bein La Liga TV 3 (Match Time)
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/21047
+#EXTINF:-1,Bein La Liga TV 4 (Match Time)
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/21046
+#EXTINF:-1,Bein La Liga TV 5 (Match Time)
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/21045
+#EXTINF:-1,Bein La Liga TV 6 (Match Time)
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/21044
+#EXTINF:-1,Bein La Liga TV 7 (Match Time)
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/21043
+#EXTINF:-1,Bein La Liga TV 8 (Match Time)
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/21042
+#EXTINF:-1,LA LIGA 1|2|3 FHD
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/46846
+#EXTINF:-1,LA LIGA 1|2|3 FHD"
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/46847
 
 
 
