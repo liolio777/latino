@@ -4,8 +4,8 @@
 http://xpro.one-iptv.com:25443/mgs/1234/39151133
 #EXTINF:-1 tvg-id="" tvg-name="|LATINO| WIN SPORT HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu20Ou_HmodEtN4PondQUqSFxBgbU9jy-pu19cBT6K2CKkDTR7COIw-lMK" group-title="LATINO",|LATINO| WIN SPORT HD
 
-#EXTINF:-1,TVE
-http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/55801
+#EXTINF:-1,PR | Mega TV 
+http://149.56.26.6:25461/cgct05/PAkR2vXVcsffgg6k/49693
 #EXTINF:-1,#0 4K+
 http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/813
 #EXTINF:-1,AMC 4K+
